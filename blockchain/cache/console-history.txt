@@ -1,0 +1,23 @@
+const greenCredit = await GreenCredit.attach("0x5FbDB2315678afecb367f032d93F642f64180aa3");
+const GreenCredit = await ethers.getContractFactory("GreenCredit");
+const [owner, user1, user2] = await ethers.getSigners();
+const [owner, user1, user2] = await ethers.getSigner
+const [owner, user1, user2] = await ethers.getSigners();
+nCredit = await GreenCredit.attach("0xCf7Ed3AccA5a467");
+const gree
+// Attach to deployed contract (co
+st GreenCredit = await ethers.getContractFactory("
+con
+// Get contract factory
+const [owner, user1, user2] = await
+// Load ethers
+(await greenCredit.credits(user1.address)).toString();
+await greenCredit.issueCredit(user1.address, 50);
+const greenCredit = await GreenCredit.attach("0xf3
+const GreenCredit = await ethers.getContractFactory("GreenCredit");
+const [owner, user1, user2] = await ethers.getSigners();
+const [owner, user1, user2] = await ethers.getSigner
+cls
+const greenCredit = await GreenCredit.attach("0xCf
+const GreenCredit = await ethers.getContractFactory
+const [owner, user1, user2] = await ethers.getSigners();
